@@ -1,0 +1,4 @@
+package InterpolationSearch;
+
+public class Main {
+}
